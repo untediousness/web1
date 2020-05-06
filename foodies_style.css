@@ -1,0 +1,188 @@
+html {
+    max-width: 100%;
+}
+
+body {
+    width: 1440px;
+    height: 900px;
+    background: #FFD97D;
+    position: absolute;
+}
+
+header {
+    position: absolute;
+    width: 518px;
+    height: 80px;
+    left: 109px;
+    top: 45px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 59px;
+    line-height: 69px;
+
+    color: #EE6055;
+
+}
+
+nav {
+    position: absolute;
+    width: 355px;
+    height: 22px;
+    left: 643px;
+    top: 63px;
+}
+
+.btn1 {
+    position: absolute;
+    width: 81px;
+}
+
+.btn2 {
+    position: absolute;
+    width: 57px;
+    left: 119px;
+}
+
+.btn3 {
+    position: absolute;
+    width: 49px;
+    left: 214px;
+}
+
+.btn4 {
+    position: absolute;
+    width: 54px;
+    left: 301px;
+}
+
+main {
+    position: absolute;
+    width: 1222px;
+    height: 715px;
+    left: 109px;
+    top: 128px;
+
+    background: #FFFFFF;
+    overflow: hidden; 
+}
+
+.lv1 {
+    position: absolute;
+    width: 1184px;
+    height: 320px;
+    left: 20px;
+    top: 23px;
+    
+    background: #60D394;
+    border-radius: 41px;
+}
+
+.lv2 {
+    position: absolute;
+    width: 1184px;
+    height: 320px;
+    left: 20px;
+    top: 369px;
+
+    background: #60D394;
+    border-radius: 41px;
+}
+
+.px1 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 34px;
+    top: 27px;
+}
+
+.px2 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 186.4px;
+    top: 27px;
+}
+
+.px3 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 338.8px;
+    top: 27px;
+}
+
+.px4 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 491.2px;
+    top: 27px;
+}
+
+.px5 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 643.6px;
+    top: 27px;
+}
+
+.px6 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    right: 34px;
+    top: 27px;
+}
+
+.px7 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 34px;
+    top: 27px;
+}
+
+.px8 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 186.4px;
+    top: 27px;
+}
+
+.px9 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 338.8px;
+    top: 27px;
+}
+
+.px10 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 491.2px;
+    top: 27px;
+}
+
+.px11 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 643.6px;
+    top: 27px;
+}
+
+.px12 {
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    right: 34px;
+    top: 27px;
+}
+
